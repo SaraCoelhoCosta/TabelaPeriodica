@@ -6,6 +6,6 @@
 
 * 👩‍💻 Descrição: Mostra as informações ao clicar no elemento químico.
 * 🛠 Tecnologias utilizadas: Java com padrão de projeto MVC.
-* :books: Trabalho desenvolvido para a matéria de Linguagem de Programação II.
+* :books: Trabalho desenvolvido para a matéria de Análise e Desenvolvimento de Sistemas.
 * 📆 Data de criação: 2019
 * ⚠️ Status do Projeto: Concluído.
