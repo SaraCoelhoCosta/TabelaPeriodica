@@ -21,9 +21,4 @@ public class ControleFrameTabelaPeriodica {
 		frameTabelaPeriodica.repaint();
 		frameTabelaPeriodica.validate();
 	}
-
-	public static void main(String[] args) {
-		new ControleFrameTabelaPeriodica();
-	}
-
 }
