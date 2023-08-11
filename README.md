@@ -30,6 +30,7 @@ git clone https://github.com/SaraCoelhoCosta/TabelaPeriodica.git
 
 ```bash
 cd TabelaPeriodica
+cd src
 ```
 
 ## Execução
