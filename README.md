@@ -1,4 +1,4 @@
-# Projeto Java de Tabela Periódica com Interface Interativa
+# Tabela Periódica com Interface Interativa
 
 <p align="center"> 
   <img align="center" src="https://user-images.githubusercontent.com/31167065/123709111-de108d80-d842-11eb-8147-061ec0b40d46.jpeg" width="700">  
